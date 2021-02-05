@@ -1,7 +1,3 @@
-# Snake - DYOA at TU Graz WS 2020
-# Name:       Borna Vincek
-# Student ID: 11814996
-
 import random
 
 BOARD_WIDTH = 8
